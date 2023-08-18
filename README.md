@@ -33,5 +33,7 @@ Enter the currency code to convert to: EUR
 
 100 USD is equivalent to 85.25 EUR
 
+## LINK TO THE DEMO VIDEO OF MY APP.
+- `https://www.loom.com/share/e3d9cb206c864e08b6d88ef32c5df55b?sid=72a845f5-1869-4897-af60-bdbc24edc0cc`
 ## API Reference
 This script uses the "exchangerate-api.com" API to fetch the latest exchange rates. You can find more information about the API here.
